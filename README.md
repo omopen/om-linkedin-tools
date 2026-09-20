@@ -4,7 +4,7 @@
 
 **Maintained by [omopen.ai](https://omopen.ai) · Licensed CC BY 4.0**
 
-https://github.com/omopen/om-linkedin-tools/issues/2#issue-5518125373
+![image](https://github.com/omopen/om-linkedin-tools/issues/2#issue-5518125373)
 ---
 
 ## What This Is
